@@ -1,7 +1,7 @@
 #  ⠀
 #  ⠀
 # ⠀
-***downloads
+***markdown
 
 Eat to live
 link to Download: 
